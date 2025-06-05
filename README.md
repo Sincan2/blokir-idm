@@ -1,5 +1,3 @@
-Berikut adalah contoh isi `README.md` yang cocok jika kamu ingin mengunggah project ini ke GitHub (misalnya di repositori `https://github.com/Sincan2/blokir-idm`):
-
 ---
 
 ### 📄 README.md

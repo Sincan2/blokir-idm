@@ -1,3 +1,10 @@
+Berikut adalah contoh isi `README.md` yang cocok jika kamu ingin mengunggah project ini ke GitHub (misalnya di repositori `https://github.com/Sincan2/blokir-idm`):
+
+---
+
+### 📄 README.md
+
+````markdown
 # 🔒 Blokir IDM (Internet Download Manager) via File Hosts
 
 Proyek ini berfungsi untuk **memblokir koneksi Internet Download Manager (IDM)** ke server aktivasi/resmi menggunakan modifikasi file `hosts` pada Windows 10/11.
@@ -39,3 +46,24 @@ Baris berikut akan ditambahkan ke:
 127.0.0.1 secure.registeridm.com
 127.0.0.1 internetdownloadmanager.com
 127.0.0.1 www.internetdownloadmanager.com
+````
+
+---
+
+## ❗ Disclaimer
+
+* Proyek ini hanya untuk **pembelajaran dan pengujian pribadi**.
+* Tidak disarankan untuk digunakan untuk membajak atau melanggar lisensi perangkat lunak.
+
+---
+
+## 🔗 Author
+
+* GitHub: [Sincan2](https://github.com/Sincan2)
+
+```
+
+---
+
+Jika kamu ingin, saya juga bisa bantu buat repositori `.git` lokal atau bantu persiapkan file `blokir_idm.zip` siap diunggah ke repo-mu. Mau saya bantu lanjutkan ke langkah itu?
+```
